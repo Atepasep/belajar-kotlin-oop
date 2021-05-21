@@ -1,3 +1,3 @@
 
-rootProject.name = "belajar-kotlin2"
+rootProject.name = "belajar-kotlin-oop"
 
